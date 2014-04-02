@@ -1,1 +1,34 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Placename":"Seattle Chinese Garden","Notes":"","link":"www.seattlechinesegarden.org/"},"geometry":{"type":"Point","coordinates":[-122.35276222229004,47.55312816069254]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Seattle Chinese Garden",
+        "Notes": "",
+        "link": "www.seattlechinesegarden.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35276222229004,
+          47.55312816069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Fallow field into which the Seattle Chinese Garden will extend...  ",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.352754175663,
+          47.553513740325364
+        ]
+      }
+    }
+  ]
+}
