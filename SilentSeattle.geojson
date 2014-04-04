@@ -161,6 +161,41 @@
         "coordinates": [
           -122.30403184890746,
           47.56710134761303
+          ]
+          }
+	},
+	{
+      "type": "Feature",
+      "properties": {
+        "Name": "Waterfall Garden",
+        "Link": "http://www.yelp.com/biz/waterfall-garden-seattle",
+        "Description": "Relaxing waterfall garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.33176589012146,
+              47.60013708508098
+            ],
+            [
+              -122.33177125453949,
+              47.6001877262822
+            ],
+            [
+              -122.33211457729338,
+              47.60018410905514
+            ],
+            [
+              -122.33210384845734,
+              47.60012985061967
+            ],
+            [
+              -122.33176589012146,
+              47.60013708508098
+            ]
+          ]
         ]
       }
     },
@@ -171,12 +206,28 @@
         "Notes": "waffle house is awesome",
         "link": "www.sweetiron.com",
         "Names": "Luke"
-      },
+    },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.33546733856201,
           47.60760974936441
+          ]
+          }
+          },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fremont Troll",
+        "Link": "http://www.yelp.com/biz/the-fremont-troll-seattle",
+        "Placename": "",
+        "Description": "The troll in Fremont"
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3472797870636,
+          47.65106458280675
         ]
       }
     },
@@ -199,16 +250,46 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Seattle Center",
+        "Link": "http://www.yelp.com/biz/seattle-center-seattle",
+        "Description": "Seattle activity center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35113143920897,
+          47.62224815754168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Placename": "Plaka Greek Restaurant",
         "Notes": "Fantastic Greek food",
         "link": "http://www.plakaballard.com/Welcome.html",
         "Names": "Pitchaya Phapanon"
-      },
+	  },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.38230943679808,
           47.66826299960743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Paseo",
+        "Link": "paseoseattle.com",
+        "Description": "Best sandwich shop in Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35025167465211,
+          47.6584071209998
         ]
       }
     },
@@ -228,5 +309,21 @@
         ]
       }
     },
-    {"type":"Feature","properties":{"Placename":"Discovery park","Notes":"Former Military","link":"http://www.seattle.gov/parks/environment/discovery.htm"},"geometry":{"type":"Point","coordinates":[-122.41310119628906,47.66041602143198]}},{"type":"Feature","properties":{"Placename":"Volunteer Park","Notes":"Park, resivoir","link":"http://www.seattle.gov/parks/park_detail.asp?id=399"},"geometry":{"type":"Point","coordinates":[-122.31542587280273,47.63150353367052]}},{"type":"Feature","properties":{"Placename":"Madison Park","Notes":"Park, boat launch, japanese gardens","link":"http://www.seattle.gov/parks/park_detail.asp?ID=369"},"geometry":{"type":"Point","coordinates":[-122.28542804718019,47.63057806980644]}},{"type":"Feature","properties":{"Placename":"Gasworks Park","Notes":"Converted power plant","link":"http://www.seattle.gov/parks/park_detail.asp?id=293"},"geometry":{"type":"Point","coordinates":[-122.33465194702147,47.64578830278621]}}]}
-
+    {"type":"Feature","properties":{"Placename":"Discovery park","Notes":"Former Military","link":"http://www.seattle.gov/parks/environment/discovery.htm"},"geometry":{"type":"Point","coordinates":[-122.41310119628906,47.66041602143198]}},{"type":"Feature","properties":{"Placename":"Volunteer Park","Notes":"Park, resivoir","link":"http://www.seattle.gov/parks/park_detail.asp?id=399"},"geometry":{"type":"Point","coordinates":[-122.31542587280273,47.63150353367052]}},{"type":"Feature","properties":{"Placename":"Madison Park","Notes":"Park, boat launch, japanese gardens","link":"http://www.seattle.gov/parks/park_detail.asp?ID=369"},"geometry":{"type":"Point","coordinates":[-122.28542804718019,47.63057806980644]}},{"type":"Feature","properties":{"Placename":"Gasworks Park","Notes":"Converted power plant","link":"http://www.seattle.gov/parks/park_detail.asp?id=293"},"geometry":{"type":"Point","coordinates":[-122.33465194702147,47.64578830278621]}},
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Costco",
+        "Link": "costco.com",
+        "Description": "First Costco "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33029603958128,
+          47.565465301791384
+        ]
+      }
+    }
+  ]
+}
