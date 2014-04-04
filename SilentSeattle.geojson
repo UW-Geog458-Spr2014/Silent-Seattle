@@ -15,6 +15,19 @@
           47.55312816069254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Carkeek Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37919807434082,
+          47.711609647845975
+        ]
+      }
     }
   ]
 }
