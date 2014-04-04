@@ -324,6 +324,23 @@
           47.565465301791384
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "Placename": "Lincoln Park ",
+        "Notes": "A good place to walk ",
+        "Student Name": "Paul Trask "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39456176757811,
+          47.53029968858651
+        ]
+      }
     }
   ]
 }
+
