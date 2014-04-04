@@ -66,17 +66,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33774185180664,
-          47.62097541515849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "Name": "Seattle Center"
       },
@@ -85,6 +74,32 @@
         "coordinates": [
           -122.35113143920897,
           47.62224815754168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Paseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35025167465211,
+          47.6584071209998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Costco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33029603958128,
+          47.565465301791384
         ]
       }
     }
