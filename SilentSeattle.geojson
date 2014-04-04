@@ -19,7 +19,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Placename": "Carkeek Park"
+        "Placename": "Carkeek Park",
+        "Notes": "Come here to watch the waves or the trains roll by.",
+        "link": "http://en.wikipedia.org/wiki/Carkeek_Park"
       },
       "geometry": {
         "type": "Point",
