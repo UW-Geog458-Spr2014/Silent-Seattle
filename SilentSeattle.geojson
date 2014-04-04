@@ -145,6 +145,86 @@
         "coordinates": [
           -122.37919807434082,
           47.711609647845975
+          ]
+    	}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Jefferson Park Golf Course",
+        "Notes": "large Golf course with 11 holes in total",
+        "link": "http://www.premiergc.com/jefferson",
+        "Names": "Jorge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30403184890746,
+          47.56710134761303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Sweet Iron",
+        "Notes": "waffle house is awesome",
+        "link": "www.sweetiron.com",
+        "Names": "Luke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33546733856201,
+          47.60760974936441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Denny Park",
+        "Notes": "Green park to hang out in",
+        "link": "http://www.seattle.gov/parks/park_detail.asp?ID=309 ",
+        "Names": "Prescott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34096050262451,
+          47.619095170849626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Plaka Greek Restaurant",
+        "Notes": "Fantastic Greek food",
+        "link": "http://www.plakaballard.com/Welcome.html",
+        "Names": "Pitchaya Phapanon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38230943679808,
+          47.66826299960743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Luther Burbank Park",
+        "Notes": "Beautiful Scenery ",
+        "link": "https://www.mercergov.org/page.asp?navid=1138",
+        "Names": "Seong Lee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22547531127928,
+          47.59238840380978
         ]
       }
     }
