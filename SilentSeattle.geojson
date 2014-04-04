@@ -15,12 +15,7 @@
           47.55312816069254
         ]
       }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -68,7 +63,7 @@
           47.65106458280675
         ]
       }
-          }
+    }
   ]
 }
 
