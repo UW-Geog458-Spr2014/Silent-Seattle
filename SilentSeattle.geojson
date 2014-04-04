@@ -30,6 +30,21 @@
           47.66681797253573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "The Geography Department",
+        "Notes": "A place where we all spend too much time",
+        "link": "http://depts.washington.edu/geog/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3071002960205,
+          47.656672756297006
+        ]
+      }
     }
   ]
 }
