@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "type": "FeatureCollection",
   "features": [
@@ -53,7 +52,6 @@
       }
     }
   ]
-}
-=======
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Placename":"Seattle Chinese Garden","Notes":"An imagined geography of peonies, pools, and pavilions","link":"www.seattlechinesegarden.org/"},"geometry":{"type":"Point","coordinates":[-122.35276222229004,47.55312816069254]}},{"type":"Feature","properties":{"Place Name":"El Camion","Notes":"My favorite mexican food joint in Seattle. Recently added a restaurant location in Ballard to their group of food trucks spread throughout the city.","Link":"http://www.elcamionseattle.com/","Student Name":"Cole Bessee"},"geometry":{"type":"Point","coordinates":[-122.37642467021941,47.67615755984168]}},{"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},{"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},{"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}}]}
+},
+{"type":"Point","coordinates":[-122.35276222229004,47.55312816069254]}},{"type":"Feature","properties":{"Place Name":"El Camion","Notes":"My favorite mexican food joint in Seattle. Recently added a restaurant location in Ballard to their group of food trucks spread throughout the city.","Link":"http://www.elcamionseattle.com/","Student Name":"Cole Bessee"},"geometry":{"type":"Point","coordinates":[-122.37642467021941,47.67615755984168]}},{"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},{"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},{"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}}]}
 >>>>>>> 775f0b5b7678d5da94e317dab0751efac0f98a30
