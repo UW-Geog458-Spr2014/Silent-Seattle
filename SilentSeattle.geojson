@@ -20,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Waterfall Garden",
-        "Link": "http://www.yelp.com/biz/waterfall-garden-seattle"
+        "Link": "http://www.yelp.com/biz/waterfall-garden-seattle",
+        "Description": "Relaxing waterfall garden"
       },
       "geometry": {
         "type": "Polygon",
@@ -54,7 +55,9 @@
       "type": "Feature",
       "properties": {
         "Name": "Fremont Troll",
-        "Link": "http://www.yelp.com/biz/the-fremont-troll-seattle"
+        "Link": "http://www.yelp.com/biz/the-fremont-troll-seattle",
+        "Placename": "",
+        "Description": "The troll in Fremont"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +70,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Seattle Center"
+        "Name": "Seattle Center",
+        "Link": "http://www.yelp.com/biz/seattle-center-seattle",
+        "Description": "Seattle activity center"
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +85,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Paseo"
+        "Name": "Paseo",
+        "Link": "paseoseattle.com",
+        "Description": "Best sandwich shop in Washington"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +100,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Costco"
+        "Name": "Costco",
+        "Link": "costco.com",
+        "Description": "First Costco "
       },
       "geometry": {
         "type": "Point",
