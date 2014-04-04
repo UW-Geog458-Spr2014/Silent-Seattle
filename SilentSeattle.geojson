@@ -45,6 +45,36 @@
           47.656672756297006
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Hard Wok Cafe",
+        "Notes": "A cafe with really good desserts",
+        "link": "www.hardwokcafeseattle.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31679916381835,
+          47.59916042375507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Metsker Maps",
+        "Notes": "A neat map store",
+        "link": "www.metskers.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34169006347656,
+          47.61044517606377
+        ]
+      }
     }
   ]
 }
