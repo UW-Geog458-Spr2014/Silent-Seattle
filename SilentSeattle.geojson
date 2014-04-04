@@ -15,6 +15,21 @@
           47.55312816069254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "The Noble Fir",
+        "Notes": "A great bar with cool maps ",
+        "link": "www.thenoblefir.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38351106643675,
+          47.66681797253573
+        ]
+      }
     }
   ]
 }
