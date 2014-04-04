@@ -17,4 +17,54 @@
       }
     }
   ]
-}
+}{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waterfall Garden",
+        "Link": "http://www.yelp.com/biz/waterfall-garden-seattle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.33176589012146,
+              47.60013708508098
+            ],
+            [
+              -122.33177125453949,
+              47.6001877262822
+            ],
+            [
+              -122.33211457729338,
+              47.60018410905514
+            ],
+            [
+              -122.33210384845734,
+              47.60012985061967
+            ],
+            [
+              -122.33176589012146,
+              47.60013708508098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fremont Troll",
+        "Link": "http://www.yelp.com/biz/the-fremont-troll-seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3472797870636,
+          47.65106458280675
+        ]
+      }
+
