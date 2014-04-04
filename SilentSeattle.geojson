@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Placename": "Seattle Chinese Garden",
-        "Notes": "",
+        "Notes": "An imagined geography of peonies, pools, and pavilions",
         "link": "www.seattlechinesegarden.org/"
       },
       "geometry": {
@@ -13,20 +13,6 @@
         "coordinates": [
           -122.35276222229004,
           47.55312816069254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "Fallow field into which the Seattle Chinese Garden will extend...  ",
-        "Notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.352754175663,
-          47.553513740325364
         ]
       }
     }
