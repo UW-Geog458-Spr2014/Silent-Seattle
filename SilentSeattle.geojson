@@ -1,124 +1,127 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "Seattle Chinese Garden",
-        "Notes": "An imagined geography of peonies, pools, and pavilions",
-        "link": "www.seattlechinesegarden.org/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.35276222229004,
-          47.55312816069254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "Seattle Youth Jail",
-        "Notes": "http://nonewyouthjail.wordpress.com/why-oppose-the-new-youth-jail/",
-        "link": "http://www.kingcounty.gov/courts/detention/juvenile_detention.aspx"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.31671333312988,
-              47.603537171173414
-            ],
-            [
-              -122.31671333312988,
-              47.60462225851581
-            ],
-            [
-              -122.314213514328,
-              47.60462225851581
-            ],
-            [
-              -122.314213514328,
-              47.603537171173414
-            ],
-            [
-              -122.31671333312988,
-              47.603537171173414
-            ]
-          ]
-          ]
-	}, 
-    {
-      "type": "Feature",
-      "properties": {
-         "Placename": "The Noble Fir",
-        "Notes": "A great bar with cool maps ",
-        "link": "www.thenoblefir.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.38351106643675,
-          47.66681797253573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "The Geography Department",
-        "Notes": "A place where we all spend too much time",
-        "link": "http://depts.washington.edu/geog/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3071002960205,
-          47.656672756297006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "Hard Wok Cafe",
-        "Notes": "A cafe with really good desserts",
-        "link": "www.hardwokcafeseattle.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31679916381835,
-          47.59916042375507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Placename": "Metsker Maps",
-        "Notes": "A neat map store",
-        "link": "www.metskers.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34169006347656,
-          47.61044517606377
-        ]
-      }
-    },
-{
-"type":"Feature",
-"properties":
-{"Place Name":"El Camion","Notes":"My favorite mexican food joint in Seattle. Recently added a restaurant location in Ballard to their group of food trucks spread throughout the city.",
-"Link":"http://www.elcamionseattle.com/",
-"Student Name":"Cole Bessee"
-},"geometry":{"type":"Point","coordinates":[-122.37642467021941,47.67615755984168]}},
-
-{"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},{"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},{"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}},
-{"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},{"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},{"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}}
-]
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "Seattle Chinese Garden",
+                 "Notes": "An imagined geography of peonies, pools, and pavilions",
+                 "link": "www.seattlechinesegarden.org/"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -122.35276222229004,
+                                 47.55312816069254
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "Seattle Youth Jail",
+                 "Notes": "http://nonewyouthjail.wordpress.com/why-oppose-the-new-youth-jail/",
+                 "link": "http://www.kingcounty.gov/courts/detention/juvenile_detention.aspx"
+                 },
+                 "geometry": {
+                 "type": "Polygon",
+                 "coordinates": [
+                                 [
+                                  [
+                                   -122.31671333312988,
+                                   47.603537171173414
+                                   ],
+                                  [
+                                   -122.31671333312988,
+                                   47.60462225851581
+                                   ],
+                                  [
+                                   -122.314213514328,
+                                   47.60462225851581
+                                   ],
+                                  [
+                                   -122.314213514328,
+                                   47.603537171173414
+                                   ],
+                                  [
+                                   -122.31671333312988,
+                                   47.603537171173414
+                                   ]
+                                  ]
+                                 ]
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "The Noble Fir",
+                 "Notes": "A great bar with cool maps ",
+                 "link": "www.thenoblefir.com"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -122.38351106643675,
+                                 47.66681797253573
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "The Geography Department",
+                 "Notes": "A place where we all spend too much time",
+                 "link": "http://depts.washington.edu/geog/"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -122.3071002960205,
+                                 47.656672756297006
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "Hard Wok Cafe",
+                 "Notes": "A cafe with really good desserts",
+                 "link": "www.hardwokcafeseattle.com"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -122.31679916381835,
+                                 47.59916042375507
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "Placename": "Metsker Maps",
+                 "Notes": "A neat map store",
+                 "link": "www.metskers.com"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -122.34169006347656,
+                                 47.61044517606377
+                                 ]
+                 }
+                 },
+                 {
+                 "type":"Feature",
+                 "properties":
+                 {"Place Name":"El Camion","Notes":"My favorite mexican food joint in Seattle. Recently added a restaurant location in Ballard to their group of food trucks spread throughout the city.",
+                 "Link":"http://www.elcamionseattle.com/",
+                 "Student Name":"Cole Bessee"
+                 },"geometry":{"type":"Point","coordinates":[-122.37642467021941,47.67615755984168]}},
+                 {"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},
+                 {"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},
+                 {"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}},
+                 {"type":"Feature","properties":{"Name":"Shanghai Garden","Notes":"Delicious Chinese cuisine, their specialty is hand-shaven noodlesq","Link":"theshanghaigarden.com","Student Name":"Kasim Salahuddin"},"geometry":{"type":"Point","coordinates":[-122.32620298862457,47.59761581473811]}},
+                 {"type":"Feature","properties":{"Place Name":"Piroshky Piroshky","Notes":"Family owned Russian bakery","Link":"www.pirsoshkybakery","Student Name":"Theresa"},"geometry":{"type":"Point","coordinates":[-122.34247326850893,47.609920778374864]}},
+                 {"type":"Feature","properties":{"Place Name":"Little Sheep Mongolian Hot Pot","Notes":"Best hot pot restaurant in Seattle","Link":"www.littlesheephotpot.com","Student Name":"Bin Zhu"},"geometry":{"type":"Point","coordinates":[-122.14303493499756,47.622132454969034]}}
+                 ]
 }
