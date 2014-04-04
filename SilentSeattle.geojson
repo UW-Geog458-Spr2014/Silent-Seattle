@@ -34,7 +34,7 @@
       "type": "Feature",
       "properties": {
         "Placename": "Seattle Youth Jail",
-        "Notes": "http://nonewyouthjail.wordpress.com/why-oppose-the-new-youth-jail/"
+        "Notes": "http://nonewyouthjail.wordpress.com/why-oppose-the-new-youth-jail/",
         "link": "http://www.kingcounty.gov/courts/detention/juvenile_detention.aspx"
       },
       "geometry": {
